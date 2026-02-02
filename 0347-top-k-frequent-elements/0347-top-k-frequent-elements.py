@@ -9,4 +9,3 @@ class Solution:
         top_k_keys = [item[0] for item in sorted_count[:k]]
 
         return top_k_keys
-
