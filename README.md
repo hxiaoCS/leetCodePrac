@@ -73,4 +73,12 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hxiaoCS/leetCodePrac/tree/master/0033-search-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hxiaoCS/leetCodePrac/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hxiaoCS/leetCodePrac/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
